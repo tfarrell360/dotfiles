@@ -1,4 +1,4 @@
-# Mario's dotfiles
+# Mario's dotfiles FOR TROY
 
 This repository has all of my command line configuration files. It can be installed by cloning the repository and running `install.sh`:
 
